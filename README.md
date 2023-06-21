@@ -4,4 +4,5 @@
 (File 2,3,4,4). The project is about SQL and Power BI. 
 - The query is to load data into the Microsoft SQL Server Management Studio (version 18). 
 - The data is then imported into Power BI and manipulated to visualise business insights.
+
 Note: Open the PDF visualization in case you cannot open .pbix file.
